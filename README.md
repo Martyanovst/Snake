@@ -1,6 +1,8 @@
 # Snake
 
-[Screenshot](https://github.com/Martyanovst/Snake/blob/master/screenshot.png)
+<p align="center">
+  <img src="https://github.com/Martyanovst/Snake/blob/master/screenshot.png" width="350" title="hover text">
+</p>
 
 Змейка с наворотами(работает только в MS DOS).
 
